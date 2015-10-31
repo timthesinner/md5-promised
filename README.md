@@ -8,7 +8,7 @@ Handle file hashing from the promise framework.
 npm install md5-promised --save
 ```
 
-## Example hashing a the md5-promised index.js (v1.0.1)
+## Example hashing the md5-promised index.js (v1.0.1)
 ```js
 var hash = require('md5-promised');
 hash('md5-promised/index.js').then(function(md5) {
