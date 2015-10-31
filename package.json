@@ -1,0 +1,30 @@
+{
+  "name": "md5-promised",
+  "version": "1.0.0",
+  "description": "Calculate MD5 in a promise framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timthesinner/md5-promised.git"
+  },
+  "keywords": [
+    "md5",
+    "hash",
+    "promise",
+    "promised",
+    "MD5",
+    "crypto"
+  ],
+  "author": "TimTheSinner",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/timthesinner/md5-promised/issues"
+  },
+  "homepage": "https://github.com/timthesinner/md5-promised#readme",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
